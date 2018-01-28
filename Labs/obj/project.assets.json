@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\artve\\.nuget\\packages\\": {},
+    "C:\\Users\\Artmas\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artve\\RiderProjects\\Labs\\Labs\\Labs.csproj",
+      "projectUniqueName": "C:\\Users\\Artmas\\RiderProjects\\LABS\\LabsCSharp\\Labs\\Labs.csproj",
       "projectName": "Labs",
-      "projectPath": "C:\\Users\\artve\\RiderProjects\\Labs\\Labs\\Labs.csproj",
-      "packagesPath": "C:\\Users\\artve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artve\\RiderProjects\\Labs\\Labs\\obj\\",
+      "projectPath": "C:\\Users\\Artmas\\RiderProjects\\LABS\\LabsCSharp\\Labs\\Labs.csproj",
+      "packagesPath": "C:\\Users\\Artmas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Artmas\\RiderProjects\\LABS\\LabsCSharp\\Labs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\artve\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Artmas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

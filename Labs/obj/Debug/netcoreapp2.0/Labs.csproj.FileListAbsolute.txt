@@ -8,3 +8,13 @@ C:\Users\artve\RiderProjects\Labs\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfo
 C:\Users\artve\RiderProjects\Labs\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfo.cs
 C:\Users\artve\RiderProjects\Labs\Labs\obj\Debug\netcoreapp2.0\Labs.dll
 C:\Users\artve\RiderProjects\Labs\Labs\obj\Debug\netcoreapp2.0\Labs.pdb
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\bin\Debug\netcoreapp2.0\Labs.deps.json
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\bin\Debug\netcoreapp2.0\Labs.runtimeconfig.json
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\bin\Debug\netcoreapp2.0\Labs.runtimeconfig.dev.json
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\bin\Debug\netcoreapp2.0\Labs.dll
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\bin\Debug\netcoreapp2.0\Labs.pdb
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\obj\Debug\netcoreapp2.0\Labs.csproj.CoreCompileInputs.cache
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfoInputs.cache
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\obj\Debug\netcoreapp2.0\Labs.AssemblyInfo.cs
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\obj\Debug\netcoreapp2.0\Labs.dll
+C:\Users\Artmas\RiderProjects\LABS\LabsCSharp\Labs\obj\Debug\netcoreapp2.0\Labs.pdb

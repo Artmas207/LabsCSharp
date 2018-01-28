@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\artve\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Labs.1326148043.00" t="ExcludeRecursive" />
-    <e p="C:\Users\artve\RiderProjects\Labs" t="IncludeFlat">
+    <e p="C:\Users\Artmas\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Labs.-760954744.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Artmas\RiderProjects\Labs\LabsCSharp" t="IncludeFlat">
       <e p="Labs" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Lab1.cs" t="Include" />
+        <e p="Lab1_4.cs" t="Include" />
+        <e p="Lab1_4_Text.txt" t="Include" />
+        <e p="Lab1_5.cs" t="Include" />
         <e p="Lab2.cs" t="Include" />
+        <e p="Lab3.cs" t="Include" />
         <e p="Labs.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
